@@ -1,1 +1,1 @@
-calculate 4+4-2=7
+calculate 4+4-2=6
